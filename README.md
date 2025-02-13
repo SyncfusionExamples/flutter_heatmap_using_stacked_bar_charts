@@ -2,7 +2,7 @@
 
 This repository contains a sample to implement flutter chart custom heatmap in [Syncfusion Flutter Chart](https://help.syncfusion.com/flutter/cartesian-charts/getting-started) widget.
 
-Refer KB through this link [KB]().
+Refer KB through this link [KB](https://support.syncfusion.com/kb/article/19164/how-to-achieve-a-heatmap-in-flutter-cartesianchart).
 
 ## Syncfusion controls:
 
